@@ -8,13 +8,11 @@ function App() {
             <div className="data">
                 <Intro />
                 <SkillList />
-
             </div>
             <p className="footer"><a href="https://www.linkedin.com/in/ramazanima/">LinkedIn</a> | <a href="https://github.com/ramazanima">GitHub</a> | <a href="mailto:maliramazani2@gmail.com
 ">Email</a></p>
             <p className="footer-credit">Made by Ali Ramazani</p>
             <p className="footer">Powered By React</p>
-
         </div>
     );
 }
